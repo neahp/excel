@@ -1,3 +1,8 @@
+'select the whole text by pressing ctrl A
+'press alt f11 to open the VBA window or put visual basic into the search bar and open it
+'right click on your desired document and go insert > module
+'paste this code and press f5 to run it or the run button
+'a pop up should appear that allows you to change the name 
 Sub ChangeCommentAuthor()
 'Updated by EntendOffice 20181112
     Dim I As Long
